@@ -23,4 +23,5 @@ The last classifier I tried was Support Vector Machine (SVM) because it is not l
 
 In the end, most of my models fit well after parameter tuning and most of them had overall scores within hundreds of each other, indicating that the limitation in recall score was due to feature engineering, not the model choice or model tuning.
 
-<h2>Project Directory</h2>
+<h2>Software Requirements</h2>
+[Numpy](https://www.numpy.org)
