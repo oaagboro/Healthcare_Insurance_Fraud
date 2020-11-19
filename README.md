@@ -32,3 +32,10 @@ In the end, most of my models fit well after parameter tuning and most of them h
 <h2>Prerequisites</h2>
 <li>Python version 3.0 and above</li>
 <li>Jupyter notebook</li>
+
+<h2>Project Directory</h2>
+<u>code</u>
+<li>1_Data_Cleaning.ipynb</li>
+<li>2_EDA_and_Feature_Engineering.ipynb</li>
+<li>3_Modelling_1st_iteration.ipynb</li>
+<li>4_Modelling_2nd_iteration.ipynb</li>
