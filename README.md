@@ -24,9 +24,11 @@ The last classifier I tried was Support Vector Machine (SVM) because it is not l
 In the end, most of my models fit well after parameter tuning and most of them had overall scores within hundreds of each other, indicating that the limitation in recall score was due to feature engineering, not the model choice or model tuning.
 
 <h2>Software Requirements</h2>
-<li><a href="https//www.numpy.org">Numpy</a><p>Numerical Computing Tool</p></li>
+<li><a href="https//www.numpy.org">Numpy</a></li>
 <li><a href="https//www.pandas.pydata.org">Pandas</a></li>
 <li><a href="https//www.scikit-learn.org">Scikit-learn</a></li>
 <li><a href="https//www.seaborn.pydata.org">Seaborn</a></li>
 
-
+<h2>Prerequisites</h2>
+<li>Python version 3.0 and above</li>
+<li>Jupyter notebook</li>
